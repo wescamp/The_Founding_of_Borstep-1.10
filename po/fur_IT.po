@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fur\n"
+"Language: fur_IT\n"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #. [editor_group]: id=tfob
@@ -898,7 +898,7 @@ msgstr ""
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:535
-msgid "Be there any further business ye wish to conduct?"
+msgid "Be there any fur_ITther business ye wish to conduct?"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
