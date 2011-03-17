@@ -898,7 +898,7 @@ msgstr ""
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:535
-msgid "Be there any fur_ITther business ye wish to conduct?"
+msgid "Be there any further business ye wish to conduct?"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
