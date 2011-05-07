@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:36+0100\n"
+"POT-Creation-Date: 2011-05-07 13:52+0200\n"
 "PO-Revision-Date: 2011-02-21 15:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [campaign]: id=The_Founding_of_Borstep
@@ -1172,21 +1172,31 @@ msgstr ""
 
 #. [scenario]: id=Underground_Lake
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:241
+msgid "potion^Drink it"
+msgstr ""
+
+#. [scenario]: id=Underground_Lake
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:242
+msgid "potion^Don't drink it"
+msgstr ""
+
+#. [scenario]: id=Underground_Lake
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:243
 msgid "$unit.name can't take this potion."
 msgstr ""
 
 #. [object]
-#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:243
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:245
 msgid "Intelligence Potion"
 msgstr ""
 
 #. [object]
-#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:245
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:247
 msgid "This potion decreases a unit's experience requirements by one third!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:334
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:336
 msgid "Without Durguld, we'll never be able to get the dwarves' help."
 msgstr ""
 
