@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-05 21:58-0400\n"
+"POT-Creation-Date: 2012-02-26 17:24+0100\n"
 "PO-Revision-Date: 2012-01-15 14:26+0100\n"
 "Last-Translator: Stefano Coccato aka BioHazardX <dhamp90@aol.com>\n"
 "Language-Team: none\n"
@@ -59,7 +59,7 @@ msgid "(Nightmare)"
 msgstr "(Incubo)"
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:24
+#: The_Founding_of_Borstep/_main.cfg:22
 msgid ""
 "The ruler of your tribe has become decadent and weak. Take over, and lead "
 "your people to a better home--whether it is already occupied or not. Anyone "
@@ -124,8 +124,8 @@ msgid "Death of Ubor"
 msgstr "Morte di Ubor"
 
 #. [objective]: condition=lose
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:91
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:122
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:91
 msgid "Run out of turns"
 msgstr "I turni sono finiti"
 
@@ -479,9 +479,9 @@ msgid "Thieves"
 msgstr "Ladri"
 
 #. [objective]: condition=win
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:63
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:49
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:68
-#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:63
 msgid "Defeat enemy leaders."
 msgstr "Sconfiggi i comandanti nemici."
 
@@ -1195,8 +1195,8 @@ msgid "Krag-Ubor must reach the north edge of the map."
 msgstr ""
 
 #. [side]
-#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:217
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:259
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:217
 msgid "Monsters"
 msgstr "Mostri"
 
@@ -1268,8 +1268,8 @@ msgid "Dwarf City"
 msgstr "Città dei Nani"
 
 #. [objective]: condition=win
-#: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:71
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:99
+#: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:71
 msgid "Kill all enemy units."
 msgstr "Uccidi tutte le unità nemiche."
 
@@ -1657,7 +1657,7 @@ msgid "Leech"
 msgstr "Sanguisuga"
 
 #. [unit_type]: id=Leech, race=monster
-#: The_Founding_of_Borstep/units/Leech.cfg:48
+#: The_Founding_of_Borstep/units/Leech.cfg:44
 msgid ""
 "Leeches are universally known for their common diet, the warm blood of "
 "various bigger creatures. However, this is exactly why they are often used "
