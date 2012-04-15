@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:24+0100\n"
+"POT-Creation-Date: 2012-04-15 18:44-0400\n"
 "PO-Revision-Date: 2012-02-26 17:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -118,8 +118,8 @@ msgid "Death of Ubor"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:122
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:91
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:122
 msgid "Run out of turns"
 msgstr ""
 
@@ -449,9 +449,9 @@ msgid "Thieves"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:63
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:49
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:68
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:63
 msgid "Defeat enemy leaders."
 msgstr ""
 
@@ -527,8 +527,8 @@ msgid "Life and Undeath"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:52
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:47
+#: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:52
 msgid "Defeat enemy leader."
 msgstr ""
 
@@ -1034,10 +1034,10 @@ msgid ""
 "this time they did it quietly."
 msgstr ""
 
-#. [side]: id=Nuk Thoh, type=Troll Rocklobber
-#. [side]: id=Gulg, type=Troll Warrior
-#. [side]: id=Utsok, type=Troll Warrior
 #. [scenario]: id=Trolls
+#. [side]: id=Gulg, type=Troll Warrior
+#. [side]: id=Nuk Thoh, type=Troll Rocklobber
+#. [side]: id=Utsok, type=Troll Warrior
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:47
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:106
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:122
@@ -1155,8 +1155,8 @@ msgid "Krag-Ubor must reach the north edge of the map."
 msgstr ""
 
 #. [side]
-#: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:259
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:217
+#: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:259
 msgid "Monsters"
 msgstr ""
 
