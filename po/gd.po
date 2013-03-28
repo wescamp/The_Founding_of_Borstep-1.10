@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Founding_of_Borstep-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:04-0400\n"
+"POT-Creation-Date: 2013-03-28 16:17-0400\n"
 "PO-Revision-Date: 2012-09-04 21:04-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
 #. [editor_group]: id=tfob
-#: The_Founding_of_Borstep/_main.cfg:12 The_Founding_of_Borstep/_main.cfg:55
+#: The_Founding_of_Borstep/_main.cfg:12 The_Founding_of_Borstep/_main.cfg:56
 msgid "The Founding of Borstep"
 msgstr ""
 
@@ -23,42 +23,42 @@ msgid "TFoB"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:17
+#: The_Founding_of_Borstep/_main.cfg:18
 msgid "Grunt"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:17
+#: The_Founding_of_Borstep/_main.cfg:18
 msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:18
+#: The_Founding_of_Borstep/_main.cfg:19
 msgid "(Challenging)"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:18 The_Founding_of_Borstep/_main.cfg:19
+#: The_Founding_of_Borstep/_main.cfg:19 The_Founding_of_Borstep/_main.cfg:20
 msgid "Warrior"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:19
+#: The_Founding_of_Borstep/_main.cfg:20
 msgid "(Difficult)"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:20
+#: The_Founding_of_Borstep/_main.cfg:21
 msgid "Warlord"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:20
+#: The_Founding_of_Borstep/_main.cfg:21
 msgid "(Nightmare)"
 msgstr ""
 
 #. [campaign]: id=The_Founding_of_Borstep
-#: The_Founding_of_Borstep/_main.cfg:22
+#: The_Founding_of_Borstep/_main.cfg:23
 msgid ""
 "The ruler of your tribe has become decadent and weak. Take over, and lead "
 "your people to a better home--whether it is already occupied or not. Anyone "
@@ -68,7 +68,7 @@ msgid ""
 msgstr ""
 
 #. [about]
-#: The_Founding_of_Borstep/_main.cfg:29
+#: The_Founding_of_Borstep/_main.cfg:30
 msgid "Campaign Design and Programming"
 msgstr ""
 
@@ -969,21 +969,21 @@ msgid "Get Durlguld, and then Krag-Ubor to the door."
 msgstr ""
 
 #. [message]: speaker=Durguld
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:163
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:155
 msgid ""
 "It should nae be a difficult feat for ye to defeat these elves and reach "
 "yonder door."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:167
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:159
 msgid ""
 "Of course. Elves die easy. You hear that elves? We're goin' through your "
 "door!"
 msgstr ""
 
 #. [message]: speaker=Cellindor
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:171
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:163
 msgid ""
 "If the trolls are released they would present a danger to the entire "
 "continent. No one may approach this door, on penalty of death. Your party "
@@ -991,34 +991,34 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:175
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:167
 msgid "I hate being told what to do!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:183
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:175
 msgid "Now let's get into this troll tunnel."
 msgstr ""
 
 #. [message]: speaker=Durguld
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:227
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:219
 msgid "I've unsealed the door. Follow me!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:277
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:269
 msgid "I can't open the door!"
 msgstr ""
 
 #. [message]: speaker=Durguld
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:281
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:273
 msgid ""
 "As I told ye, it be magically sealed. Let me get to the door, and I can open "
 "it."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:299
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:291
 msgid "Without Durguld, we won't be able to open that door."
 msgstr ""
 
